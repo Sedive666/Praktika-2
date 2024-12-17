@@ -1,4 +1,3 @@
-
 class SportsStore:
     def __init__(self):
         self.users = []
